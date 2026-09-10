@@ -1,0 +1,6 @@
+{
+  "name": "AETHER — Kabadiwala Connect",
+  "description": "Smart India Hackathon 2026 showcase site for AETHER (PS 26229, Clean & Green Technology): Bringing informal e-waste collectors into the formal recycling chain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
