@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next dev --port=3000",
     "build": "next build",
+    "build:vite": "vite build",
     "start": "next start",
     "dev:vite": "vite --port=3001 --host=0.0.0.0",
     "lint": "next lint"
